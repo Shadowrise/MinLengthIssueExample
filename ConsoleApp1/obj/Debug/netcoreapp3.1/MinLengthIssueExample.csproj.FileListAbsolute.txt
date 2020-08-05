@@ -1,0 +1,14 @@
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\valid.xml
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.exe
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.deps.json
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.runtimeconfig.json
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.runtimeconfig.dev.json
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.dll
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\MinLengthIssueExample.pdb
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.csprojAssemblyReference.cache
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.AssemblyInfoInputs.cache
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.AssemblyInfo.cs
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.csproj.CoreCompileInputs.cache
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.dll
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.pdb
+C:\Users\emtsov.vs\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\MinLengthIssueExample.genruntimeconfig.cache
